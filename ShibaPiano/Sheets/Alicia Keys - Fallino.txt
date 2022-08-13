@@ -1,0 +1,15 @@
+d D [f0] r u u r 0 9 e y y [eh] [9f]
+[0h] r u u r 0 9 e [yh] [yj] e [9h]
+[0k] r [uk] u r 0 9 [ed] [yd] [yd] [ed] D
+[0f] r u u r 0 9 e [yf] G [ef] G
+[0h] r u u r 0 9 e [yf] [yd] [ed] D
+[0f] r u u r 0 9 e y [yj] [ej] [9k]
+[0j] r [uh] u r 0 9 e [yh] [yh] [ef] [9d]
+[0f] r u u r 0 [9a] [ed] [yf] G e [9h]
+[3h] 3 [70] k [3h] [2j] h 2 [79]
+[2d] [3f] 3 [70] h [3f] [2h]
+[2a] [79d] f G [3h] [3f] [70]
+k [3h] [2j] h 2 [79] d D
+[3f] 3 [79] h [3f] [2h] z x
+[0x] r u u r 0 9 e y y e 9
+0 r u u r 0 9 e y y e 9 0
